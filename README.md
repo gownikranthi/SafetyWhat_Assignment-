@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/object-subobject-detection.git
+github.com/gownikranthi/SafetyWhat_Assignment-object-subobject-detection.git
 cd object-subobject-detection
 Download the YOLOv5 model: The script automatically loads the YOLOv5 model from the Ultralytics repository.
 
